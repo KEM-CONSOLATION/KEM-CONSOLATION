@@ -3,6 +3,17 @@
 <!--
 **KEM-CONSOLATION/KEM-CONSOLATION** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+</div>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<div align="center">
+
+![snake gif](https://github.com/pal-sandeep/pal-sandeep/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pal-sandeep/pal-sandeep/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
