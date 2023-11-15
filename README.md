@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on [learnR](https://cindyeme.github.io/learnR)-->
 
-- 🌱 [Portfolio](https://port-folio-olive-ten.vercel.app/)
+- 🌱 [Portfolio](https://consolation.vercel.app/)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KEM-CONSOLATION](https://github.com/KEM-CONSOLATION)
 - 📝 I Also do bit of design [Dribbble](https://dribbble.com/TechieConso)
-- 💬 Ask me about **html5, css3, javascript, reactjs, tailwindcss, community, Tech in General**
+- 💬 Ask me about **Html5, Css3, Javascript, Reactjs, Next, Tailwindcss, Community, Tech in General**
 - 📫 How to reach me **consolationlotachi@gmail.com**
 - 💬 WhatsApp <a href="tel:07031896845" target="blank">#Dial</a>
 <!-- - 📄 Know about my experiences [here](https://app.flowcv.io/resume-feedback/3zs0zA4GttpL) -->
