@@ -7,40 +7,40 @@
 
 </div>
 
-<h1 align="center">I'm KEM CONSOLATION LOTACHI</h1>
-<h3 align="center">A passionate Full-Stack Engineer from Nigeria</h3>
-<h3 align="center">Building the future with cutting-edge technology</h3>
+<h1 align="center">I'm CONSOLATION LOTACHI KEM</h1>
+<h3 align="center">A passionate Frontend Engineer from Nigeria</h3>
+<h3 align="center">Building the future of Web3 with modern frontend technologies</h3>
 
 <!-- <p align="left"> <a href="https://twitter.com/TechieConso" target="blank"><img src="https://img.shields.io/twitter/follow/TechieConso?logo=twitter&style=for-the-badge" alt="TechieConso" /></a> <span align="left"> <img src="https://komarev.com/ghpvc/?username=KEM-CONSOLATION&label=Profile%20views&color=0e75b6&style=flat" alt="KEM-CONSOLATION" /> </span></p> -->
 
 - 🌱 [Portfolio](https://consolation.vercel.app/)
-- 🔭 I'm currently working on **AI-powered applications & Modern Web Solutions**
-- 👯 I'm looking to collaborate on **Open Source Projects & Innovative Tech Solutions**
+- 🔭 I'm currently working on **Web3 Frontend Applications & DApp Development**
+- 👯 I'm looking to collaborate on **Open Source Web3 Projects & DeFi Applications**
 - 👨‍💻 All of my projects are available at [https://github.com/KEM-CONSOLATION](https://github.com/KEM-CONSOLATION)
 - 📝 I Also do bit of design [Dribbble](https://dribbble.com/TechieConso)
-- 💬 Ask me about **React, Next.js, TypeScript, AI/ML, Web3, Cloud Computing, DevOps, Performance Optimization**
+- 💬 Ask me about **React, Next.js, TypeScript, Web3, DeFi, Smart Contracts, Frontend Architecture, UI/UX**
 - 📫 How to reach me **consolationlotachi@gmail.com**
 - 💬 WhatsApp <a href="tel:07031896845" target="blank">#Dial</a>
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I love exploring the intersection of AI and web development**
+- ⚡ Fun fact: **I'm passionate about building beautiful interfaces for the decentralized web**
 - 👯 Communities: **GDG (Google Developer Groups), GDSC (Google Developer Student Clubs), African Blockchain Centre for Development(ABCD)**
 
 ## 🚀 What I'm Working On
 
-### **AI & Machine Learning Integration**
-- Building intelligent web applications with AI capabilities
-- Exploring LLM integration in modern web apps
-- Working on AI-powered user experiences
+### **Web3 Frontend Development**
+- Building decentralized applications (DApps) with React and Next.js
+- Creating intuitive interfaces for DeFi protocols
+- Developing wallet integration and blockchain connectivity
 
-### **Modern Web Development**
-- Creating performant, scalable web applications
-- Implementing cutting-edge web technologies
-- Building responsive, accessible user interfaces
+### **Modern Frontend Technologies**
+- Crafting performant, responsive user interfaces
+- Implementing advanced React patterns and hooks
+- Building accessible and mobile-first applications
 
-### **Cloud & DevOps**
-- Deploying applications on modern cloud platforms
-- Implementing CI/CD pipelines and automation
-- Optimizing application performance and scalability
+### **Web3 Integration**
+- Connecting frontend applications to blockchain networks
+- Implementing wallet connections and transaction flows
+- Creating seamless user experiences for crypto applications
 
 ## 🛠️ Technical Skills
 
@@ -50,31 +50,27 @@
 - **Styling**: Tailwind CSS, Styled Components, CSS Modules, SCSS, CSS-in-JS
 - **State Management**: Redux Toolkit, Zustand, Jotai, Context API
 - **UI/UX**: Figma, Framer Motion, Responsive Design, Mobile-First Development
+- **Performance**: Core Web Vitals, Lighthouse, Bundle Optimization
 
-### **Backend & Database**
-- **Languages**: Node.js, Python, Go, Rust
-- **Frameworks**: Express.js, FastAPI, NestJS, tRPC
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Supabase
-- **APIs**: RESTful APIs, GraphQL, Serverless Functions, WebSockets
-
-### **AI & Machine Learning**
-- **Languages**: Python, JavaScript
-- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
-- **AI Tools**: OpenAI API, LangChain, Hugging Face
-- **MLOps**: Model deployment, monitoring, optimization
-
-### **Cloud & DevOps**
-- **Cloud Platforms**: AWS, Google Cloud, Vercel, Netlify
-- **Containers**: Docker, Kubernetes
-- **CI/CD**: GitHub Actions, GitLab CI, Jenkins
-- **Monitoring**: Prometheus, Grafana, DataDog
-- **Infrastructure**: Terraform, Ansible
+### **Web3 & Blockchain**
+- **Blockchains**: Ethereum, Polygon, Base, Arbitrum, BNB Chain, Solana
+- **Web3 Libraries**: Web3.js, Ethers.js, Wagmi, RainbowKit
+- **Wallet Integration**: MetaMask, WalletConnect, Coinbase Wallet
+- **DeFi Protocols**: Uniswap, Aave, Compound, 1inch
+- **Smart Contract Interaction**: Contract ABI, Event Listening, Transaction Handling
 
 ### **Modern Web Technologies**
-- **Web3**: Ethereum, Polygon, Solana, Web3.js, Ethers.js
-- **PWA**: Service Workers, Web App Manifests
-- **Performance**: Core Web Vitals, Lighthouse, Web Vitals
-- **Testing**: Jest, Cypress, Playwright, Vitest
+- **PWA**: Service Workers, Web App Manifests, Offline Support
+- **Testing**: Jest, React Testing Library, Cypress, Playwright
+- **Build Tools**: Vite, Webpack, Parcel, ESBuild
+- **Deployment**: Vercel, Netlify, GitHub Pages
+- **Version Control**: Git, GitHub, GitLab
+
+### **Design & Animation**
+- **Design Tools**: Figma, Adobe XD, Sketch
+- **Animation**: Framer Motion, Lottie, GSAP, CSS Animations
+- **UI Libraries**: Material-UI, Chakra UI, Ant Design, Headless UI
+- **Accessibility**: WCAG Guidelines, ARIA, Screen Reader Support
 
 ## 📊 GitHub Stats
 
@@ -143,67 +139,55 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
+  </a>
+  <a href="https://netlify.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+  </a>
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="40" height="40"/>
+  </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original-wordmark.svg" alt="ethereum" width="40" height="40"/>
+  </a>
+  <a href="https://polygon.technology/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg" alt="polygon" width="40" height="40"/>
+  </a>
+  <a href="https://solana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="solana" width="40" height="40"/>
   </a>
 </p>
 
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 **AI Integration** - Building intelligent web applications
+1. 🚀 **Web3 Frontend Development** - Building decentralized applications with React
 2. 🔧 **Performance Optimization** - Implementing modern web performance techniques
-3. 💬 **Real-time Features** - Adding interactive chat and communication features
-4. 📊 **Analytics & Monitoring** - Setting up comprehensive tracking systems
-5. 🌐 **Modern Web Technologies** - Exploring cutting-edge web development trends
+3. 💰 **DeFi Integration** - Creating interfaces for decentralized finance protocols
+4. 🔗 **Wallet Connectivity** - Implementing MetaMask and wallet connection features
+5. 🌐 **Blockchain Integration** - Connecting frontend apps to multiple blockchain networks
 6. 🎨 **UI/UX Enhancement** - Creating beautiful, responsive user interfaces
-7. 🔒 **Security & Best Practices** - Implementing robust security measures
-8. 📱 **Mobile-First Development** - Building responsive, mobile-optimized applications
+7. 📱 **Mobile-First Development** - Building responsive, mobile-optimized applications
+8. ⚡ **Modern Frontend Stack** - Working with Next.js, TypeScript, and Tailwind CSS
 <!--END_SECTION:activity-->
 
 ---
